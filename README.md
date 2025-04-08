@@ -7,28 +7,30 @@
 
 ### Description:
 
-Gendiff is a command line utility for comparing two configuration files. The tool analyzes the files and displays the differences in a human-readable format. It supports JSON and YAML file formats.
+ Gendiff is a command line utility for comparing two configuration files. The tool analyzes the files and displays the differences in a human-readable format. It supports JSON and YAML file formats.
 
 
 ### Requirements:
 
-To run the project we need: 
-# Python >= 3.12.0
-# Uv
+To run the project we need:
+ 
+  Python >= 3.12.0
+  Uv
 
 
 ### Installation:
 
-To install cope the URL of the repository, navigate to the project directory and run the following comand:
-# make install
+### To install cope the URL of the repository, navigate to the project directory and run the following comand:
+
+ make install
 
 
 ### Usage:
 
-Use the following comand to display the usage information:
+### Use the following comand to display the usage information:
 
-# gendiff -h 
+ gendiff -h 
 
-Comparing two files:
+### Comparing two files:
 
-# gendiff filepath1.json filepath2.json
+ gendiff filepath1.json filepath2.json

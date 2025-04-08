@@ -13,9 +13,13 @@ test-coverage:
 lint:
 	uv run ruff check
 
-check: test lint
+check: 
+	test lint
 
 build:
 	uv build
+
+package-install:
+	uv tool install dist/*.whl
 
 .PHONY: install test lint selfcheck check build

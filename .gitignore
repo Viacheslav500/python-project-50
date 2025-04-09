@@ -1,3 +1,6 @@
 .venv
 dist/
 __pycache__/
+sonar-project.properties
+coverage.xml
+tox.ini

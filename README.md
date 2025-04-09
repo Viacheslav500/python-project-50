@@ -34,3 +34,7 @@ To run the project we need:
 ### Comparing two files:
 
  gendiff filepath1.json filepath2.json
+
+### Recording of the usage:
+
+ https://asciinema.org/connect/fa31e5e9-8af9-4994-b1c7-77211c33849c

@@ -4,3 +4,4 @@ __pycache__/
 sonar-project.properties
 coverage.xml
 tox.ini
+.coverage
